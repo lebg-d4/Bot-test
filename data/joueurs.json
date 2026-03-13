@@ -1,0 +1,157 @@
+{
+  "864242023367835658": {
+    "docs": {
+      "carteid": {
+        "nom": "Kachete",
+        "prenom": "Saber",
+        "sexe": "Homme",
+        "naissance": "12/12/2001",
+        "nationalite": "Français"
+      },
+      "ppa": {
+        "nom": "Kachete",
+        "prenom": "Saber",
+        "naissance": "12/12/2001",
+        "validation": "07/03/2026"
+      },
+      "permis": {
+        "nom": "Kachete",
+        "prenom": "Saber",
+        "naissance": "12/12/2001",
+        "validation": "07/03/2001",
+        "points": "12"
+      }
+    },
+    "bank": {
+      "cash": 0,
+      "solde": 2000
+    },
+    "photo": "https://cdn.discordapp.com/ephemeral-attachments/1481324614180409428/1481743413861814374/Capture_decran_2026-03-07_142205.png?ex=69b46c97&is=69b31b17&hm=b4cec9de7a4498e1564f0fd9e1ecb53e8bea02d470ad4e2bebc2631036e3e560&"
+  },
+  "1478770883546972322": {
+    "docs": {
+      "carteid": null,
+      "ppa": null,
+      "permis": null
+    },
+    "bank": {
+      "cash": 0,
+      "solde": 0
+    },
+    "photo": "https://cdn.discordapp.com/attachments/1479826405607997675/1479846122888630353/Capture_decran_2026-03-07_142205.png?ex=69ad8599&is=69ac3419&hm=cad97d4cb6c208d34baf46186f867a5705038b2fcf64b4f846badd4e6724549c&"
+  },
+  "quetes": [],
+  "transactions": [],
+  "1104794389550747678": {
+    "docs": {
+      "carteid": {
+        "nom": "ELBATAR",
+        "prenom": "Abdelkrim",
+        "sexe": "Homme",
+        "naissance": "13/09/2004",
+        "nationalite": "MAGHREBI"
+      },
+      "ppa": null,
+      "permis": null
+    },
+    "bank": {
+      "cash": 0,
+      "solde": 7500
+    },
+    "photo": "https://cdn.discordapp.com/ephemeral-attachments/1481324614180409428/1481333982443470938/Desktop_Screenshot_2026.03.11_-_17.17.07.86.png?ex=69b2ef47&is=69b19dc7&hm=07fb4bcdf732eb76429322c576a30027ef8b46b61e0bfa0ebcf7ba82c0ed434c&",
+    "inventory": []
+  },
+  "1133433465996574852": {
+    "docs": {
+      "carteid": {
+        "nom": "LAYRE",
+        "prenom": "Zbouba",
+        "sexe": "Homme",
+        "naissance": "11/05/2000",
+        "nationalite": "malien"
+      },
+      "ppa": null,
+      "permis": null
+    },
+    "bank": {
+      "cash": 0,
+      "solde": 7500
+    },
+    "photo": "https://cdn.discordapp.com/ephemeral-attachments/1481324614180409428/1481754728709881877/image.png?ex=69b47720&is=69b325a0&hm=3bfc5c7cbfa0b381e49506425a45dc5393c49edc247682fd0622bdb9903babc7&",
+    "inventory": []
+  },
+  "1174764052094922803": {
+    "docs": {
+      "carteid": {
+        "nom": "TROUBADOUR",
+        "prenom": "Morro",
+        "sexe": "Homme",
+        "naissance": "17/12/2000",
+        "nationalite": "malien"
+      },
+      "ppa": null,
+      "permis": null
+    },
+    "bank": {
+      "cash": 0,
+      "solde": 7500
+    },
+    "photo": "https://cdn.discordapp.com/ephemeral-attachments/1481324614180409428/1481342748790624336/image.png?ex=69b2f771&is=69b1a5f1&hm=002fc57a933ae4922a049bc0fb1edd1a5bcf9af0161446272edebbe60c8f015e&",
+    "transactions": [],
+    "inventory": []
+  },
+  "braquages": [
+    {
+      "id": 1773253995295,
+      "nom": "supetette",
+      "argent": 2000,
+      "cooldown": "10",
+      "police": 2,
+      "duree": "2"
+    },
+    {
+      "id": "braquage_1773347487579",
+      "nom": "Superette",
+      "lastUse": 1773348002527
+    },
+    {
+      "id": "braquage_1773347723233",
+      "nom": "Superette",
+      "gain": 2000,
+      "attente": 120,
+      "cooldown": 777,
+      "lastUse": 1773348017793
+    }
+  ],
+  "1074798983446265966": {
+    "docs": {
+      "carteid": {
+        "nom": "PITOU",
+        "prenom": "Octo",
+        "sexe": "Homme",
+        "naissance": "01/02/2003",
+        "nationalite": "Egytien"
+      },
+      "ppa": null,
+      "permis": null
+    },
+    "bank": {
+      "cash": 0,
+      "solde": 7500
+    },
+    "photo": "https://cdn.discordapp.com/ephemeral-attachments/1481324614180409428/1481748322774417539/Roblox_28_07_2025_12_31_23.png?ex=69b47129&is=69b31fa9&hm=fb917d81b747915677f18bdc8b9b9443d7d8ab7528914a09201e9c44b4bc03c1&",
+    "transactions": [],
+    "inventory": []
+  },
+  "shop": {
+    "armes": [
+      {
+        "id": "item_1773348900540",
+        "nom": "Beretta M9",
+        "prix": 15000
+      }
+    ],
+    "objets": [],
+    "nourriture": []
+  }
+}

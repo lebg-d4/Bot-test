@@ -1,0 +1,17 @@
+{
+    "armes": [
+        { "nom": "Couteau", "prix": 150 },
+        { "nom": "Pistolet", "prix": 800 },
+        { "nom": "Fusil à pompe", "prix": 1500 }
+    ],
+    "objets": [
+        { "nom": "Téléphone", "prix": 300 },
+        { "nom": "Lampe torche", "prix": 50 },
+        { "nom": "Trousse de soin", "prix": 120 }
+    ],
+    "electronique": [
+        { "nom": "Ordinateur portable", "prix": 1200 },
+        { "nom": "Tablette", "prix": 600 },
+        { "nom": "GPS", "prix": 200 }
+    ]
+}
